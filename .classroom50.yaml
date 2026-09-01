@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "csc331-fall-2026"
+assignment: "asg1"
+owner:
+  username: "spencerphillips0"
+  id: 180495349
+  accepted_at: "2026-09-01T17:39:10Z"
+source:
+  owner: "ngo-classes"
+  owner_id: 66971255
+  repo: "csc331-1"
+  branch: "main"

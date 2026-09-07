@@ -1,4 +1,4 @@
-## Student Name: 
+## Student Name: Will Huff
 
 # Assignment 1
 
